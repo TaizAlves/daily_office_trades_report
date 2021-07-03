@@ -1,4 +1,5 @@
-# Office routine tasks - Generate and send automatic reports/ dashboard
+## Office routine tasks 
+- Generate and send automatic reports/ dashboard
 The main objective of this project is to demonstrate my skills in daily office routine tasks using Python ans it´s libraries. 
 
 **Main objective **: Generate consolidated reports from a trading extract, update cash flow and send email with reports.
