@@ -4,7 +4,6 @@ Problema: Ler aruivo de extrato de negociaçãos, fazer relatórios sobre as ope
 Python 3.8.3
 
 Passos do algoritmo:
-
 1. Importar os pacotes necessário 
 2. Abrir o arquivo do extrato como dataframe
 3. Selecionar colunas e alterar tipo 
